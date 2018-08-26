@@ -24,6 +24,7 @@ Player.prototype.rollone = function() {
   this.tempscore += this.roll;
   }
 }
+
 // hold
 Player.prototype.hold = function () {
   this.totalscore += this.tempscore;
