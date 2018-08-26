@@ -1,0 +1,19 @@
+body {
+
+  background-image:url(https://www.whatdowedoallday.com/wp-content/uploads/2017/09/pig-dice-fb680.jpg);
+  padding: 6px;
+  margin: 6px;
+}
+.jumbotron{
+  background-image: url(https://www.whatdowedoallday.com/wp-content/uploads/2017/09/pig-dice-fb680.jpg);
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-style: italic;
+  font-size: 50px;
+  border-color: blue;
+
+}
+h3{
+  color: black;
