@@ -40,6 +40,7 @@ Player.prototype.winnerCheck = function () {
 }
 
 Player.prototype.newGame = function () {
+  //debugger;
   this.roll = 0;
   this.tempscore = 0;
   this.totalscore = 0;

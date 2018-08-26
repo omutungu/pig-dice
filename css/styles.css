@@ -20,7 +20,7 @@ h3{
 }
 #player-2{
 padding-left: 10px;
-color: black;
+color: red;
 }
 #player-1{
   padding-left: 10px;
@@ -28,5 +28,5 @@ color: black;
 }
 #start{
   border-radius: 30%;
-  margin-left: 45%;
-  background-color: blue;
+  margin-right: 45%;
+  background-color: red;
