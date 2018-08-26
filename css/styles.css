@@ -17,3 +17,16 @@ h1 {
 }
 h3{
   color: black;
+}
+#player-2{
+padding-left: 10px;
+color: black;
+}
+#player-1{
+  padding-left: 10px;
+  color: black;
+}
+#start{
+  border-radius: 30%;
+  margin-left: 45%;
+  background-color: blue;
