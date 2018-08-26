@@ -1,0 +1,45 @@
+# _Pig Dice Game_
+
+#### By Onesmus Mutungu
+
+## Description
+
+_This web application allows two players to play a game of Pig Dice._
+
+
+ Player 1 inputs name and Player 2 inputs name, and click start button . Player 1:(name) Player 2:(name) then Click START  Goes to game console
+Player 1 clicks ROLL button  and Dice rolls and number is generated
+ If Player 1 rolls any number other than 1, that roll is added to round total  Roll = 2
+ If Player 1 rolls a 1, no score is added and round for Player 1 ends  Roll = 1  Round total = 2 / Total score = 2 / Player 2 begins
+ Repeat for Player 2  Roll = 1  Round total = 0  Total score = 0  Player 1 begins
+ When a player's total score reaches 100 or more, game ends and winner page shows Player 1 total score = 100 Winner page
+
+
+## Setup/Installation Requirements
+
+* _git repository_
+* _Open a HTML file_
+* _chrome web browser or Firefox
+
+
+
+## Technologies Used
+
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _JavaScript_
+* _jQuery_
+* _Atom
+
+
+### License
+
+* Licensed under the MIT license.*
+
+Copyright (c) Onesmus Mutungu
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
